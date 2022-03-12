@@ -1,6 +1,6 @@
-package w2.struct;
+package wyklady.w2.struct;
 
-import w2.model.Person;
+import wyklady.w2.model.Person;
 
 public class MyList<T extends Person> {
     protected Element<T> head;

@@ -1,4 +1,4 @@
-package w2.model;
+package wyklady.w2.model;
 
 public abstract class Person implements Comparable {
     protected String name;

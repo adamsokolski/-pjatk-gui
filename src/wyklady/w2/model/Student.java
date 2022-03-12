@@ -1,4 +1,4 @@
-package w2.model;
+package wyklady.w2.model;
 
 public class Student extends Person{
     protected String id;

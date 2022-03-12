@@ -1,4 +1,4 @@
-package w2.struct;
+package wyklady.w2.struct;
 
 public class Element<T> {
 

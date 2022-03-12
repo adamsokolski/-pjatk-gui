@@ -1,4 +1,4 @@
-package w1.model;
+package wyklady.w1.model;
 
 public abstract class Figure {
 
