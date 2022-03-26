@@ -1,7 +1,7 @@
-package wyklady.w1;
+package wyklady.w01;
 
-import wyklady.w1.model.Figure;
-import wyklady.w1.model.Square;
+import wyklady.w01.model.Figure;
+import wyklady.w01.model.Square;
 
 import java.awt.*;
 import java.awt.event.WindowAdapter;

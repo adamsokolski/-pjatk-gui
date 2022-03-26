@@ -1,7 +1,7 @@
-package wyklady.w2;
+package wyklady.w02;
 
-import wyklady.w2.model.*;
-import wyklady.w2.struct.MyList;
+import wyklady.w02.model.*;
+import wyklady.w02.struct.MyList;
 
 import java.util.Arrays;
 

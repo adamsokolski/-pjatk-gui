@@ -1,4 +1,4 @@
-package wyklady.w2.struct;
+package wyklady.w0304.ex07.struct;
 
 public class Element<T> {
 

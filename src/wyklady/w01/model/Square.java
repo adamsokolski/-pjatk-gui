@@ -1,4 +1,4 @@
-package wyklady.w1.model;
+package wyklady.w01.model;
 
 public class Square extends Figure {
     private double side;
